@@ -38,8 +38,6 @@ To run the tests you must have Excel available on your computer.
 
 
 
-## 🛠 Skills
-VBA, Excel, Pivot Tables
 
 
 ## Running Tests
