@@ -40,8 +40,4 @@ To run the tests you must have Excel available on your computer.
 
 
 
-## Running Tests
-
-To run the tests you must have Excel available on your computer.
-```
 
