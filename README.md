@@ -1,9 +1,9 @@
 
 ## Video
 
-https://github.com/maciekstrach01/VBA-Excel/assets/146733279/a600063c-9bee-4500-b956-19324f041a1c
 
-https://github.com/maciekstrach01/VBA-Excel/assets/146733279/9930e241-cdc4-4dbf-8080-a337affb6f19
+
+
 # VBA && Excel
 
 This file VBA_Excel contains a macro that names all existing Sheets in the file with the following scheme : sequence number _ name of the current month.
